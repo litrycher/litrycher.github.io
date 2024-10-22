@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://litrycher.github.io/litrycher.txt.gz
+Sitemap: https://litrycher.github.io/app/litrycher.txt.gz
+Sitemap: https://litrycher.github.io/assets/litrycher.txt.gz
+Sitemap: https://litrycher.github.io/css/litrycher.txt.gz
+Sitemap: https://litrycher.github.io/includes/litrycher.txt.gz
+Sitemap: https://litrycher.github.io/item/litrycher.txt.gz
+Sitemap: https://litrycher.github.io/src/litrycher.txt.gz
